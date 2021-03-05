@@ -1,4 +1,4 @@
-Feature: Feature two
+Feature: Feature 2
 
     Scenario: Scenario one
         Given I have used this shared step
